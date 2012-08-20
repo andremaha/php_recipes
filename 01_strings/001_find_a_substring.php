@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* Goal: 		You want to know if the sting contains a substring of a given template
+* Problem: 		You want to know if the sting contains a substring of a given template
 * 		 		Say, you wish to find out if the email adress was submitted.
 * Solution:		Use the strpos() function. Always use ===, since 0 will mean the beginning of the string.
 */ 
